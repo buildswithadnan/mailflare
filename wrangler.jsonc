@@ -4,6 +4,7 @@
 	"main": "./worker.ts",
 	"compatibility_date": "2026-05-20",
 	"keep_vars": true,
+	"account_id": "ad8cbcdf51bce5f9309bf045ea6b9019",
 	"compatibility_flags": [
 		"nodejs_compat",
 		"global_fetch_strictly_public"
@@ -64,6 +65,7 @@
 		{
 			"binding": "DB",
 			"database_name": "mailflare",
+			"database_id": "1d54315f-406f-4c54-b5bf-31a927d65569",
 			"migrations_dir": "drizzle/migrations",
 		},
 	],
